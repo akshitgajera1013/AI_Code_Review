@@ -20,7 +20,7 @@ def send_email(html_content):
     msg.add_alternative(html_content,subtype='html') 
 
 
-    with smtplib.SMTP('smtp.gmail.com',465) as smtp:
+    with smtplib.SMTP('smtp.gmail.com',587) as smtp:
         smtp.login('akshitgajera333@gmail.com',os.getenv('MAIL_APP_PASSWORD'))
         smtp.send_message(msg)
 
