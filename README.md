@@ -19,7 +19,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20Powered-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![Gmail SMTP](https://img.shields.io/badge/Gmail%20SMTP-Email%20Delivery-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://gmail.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](LICENSE)
+
 
 <br/>
 
