@@ -21,6 +21,7 @@ def send_email(html_content):
 
 
     with smtplib.SMTP('smtp.gmail.com',587) as smtp:
+        smtp.starttls()
         smtp.login('akshitgajera333@gmail.com',os.getenv('MAIL_APP_PASSWORD'))
         smtp.send_message(msg)
 
